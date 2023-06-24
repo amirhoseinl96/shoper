@@ -9,7 +9,7 @@
       "homepage": "https://twitter.com/MonneyArthur"
     }
   ],
-  "homepage": "https://github.com/mckenziearts/shopper",
+  "homepage": "https://github.com/amirhoseinl96/shoper-master",
   "keywords": ["Laravel", "Shopper", "e-commerce"],
   "require": {
     "algolia/scout-extended": "^1.3",
